@@ -566,10 +566,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-size:20px;
 }
 .list-enhome{
-	color:#FEFFFF!important;
 	font-weight:normal;
 	text-decoration:none;
 	font-size:20px;
+	color:#FFFFFF!important;
+	text-transform:none;
+	background-color:rgba(0,0,0,0.0);
 }
 .list-enhome:active{
 	font-size:20pt;
@@ -645,6 +647,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .logo-jp-alt:hover{
 	color:#FEFFFF!important;
+}
+.list-enhome-2{
+	font-size:20px;
+	color:#FFFFFF!important;
+}
+.list-enhome-2:active{
+	font-size:20px;
+	color:#FFFFFF!important;
+}
+.list-enhome-2:hover{
+	font-size:20px;
+	color:#FFFFFF!important;
+	font-weight:bold;
 }
 
 /* = Colour
