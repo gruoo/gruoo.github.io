@@ -240,13 +240,19 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #services-bloc-kumano-translation-home p{
 	font-size: 18.571428298950195px;
 }
+#bloc-5 h3{
+	font-size: 25.71428680419922px;
+}
+#bloc-5 p{
+	font-size: 18.571428298950195px;
+}
 #about-kumano-translation p{
 	font-size: 16px;
 }
 #kumano-translation-services p{
 	font-size: 16px;
 }
-#bloc-11 h4{
+#bloc-12 h4{
 	line-height: 23.75px;
 }
 #about-kumano-honyaku-jimusho-home p{
@@ -467,6 +473,9 @@ button{
 .icon-lg{
 	font-size:60px!important;
 }
+.icon-xl{
+	font-size:100px!important;
+}
 
 
 
@@ -657,6 +666,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .tc-outer-space{
 	color:#444749!important;
 }
+.tc-red{
+	color:#FF0000!important;
+}
 /* Button colour styles */
 
 .btn-orange-peel{
@@ -704,6 +716,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .icon-outer-space{
 	color:#444749!important;
 	border-color:#444749!important;
+}
+.icon-red{
+	color:#FF0000!important;
+	border-color:#FF0000!important;
 }
 .icon-french-blue{
 	color:#016EBF!important;
