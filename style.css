@@ -249,14 +249,14 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #bloc-11 h4{
 	line-height: 23.75px;
 }
-#bloc-14 p{
+#about-kumano-honyaku-jimusho-home p{
 	font-size: 16px;
 }
-#bloc-16 h3{
+#services-kumano-honyaku-jimusho-home h3{
 	font-size: 25.71428680419922px;
 	line-height: 38.57143020629883px;
 }
-#bloc-16 p{
+#services-kumano-honyaku-jimusho-home p{
 	font-size: 18.571428298950195px;
 }
 #kumano-honyaku-jimusho-kaisha p{
@@ -265,7 +265,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #kumano-honyaku-jimusho-jigyou p{
 	font-size: 16px;
 }
-#bloc-23 h3{
+#bottom-nav-bar h3{
 	font-weight: 100;
 	font-family: Helvetica;
 }
@@ -500,27 +500,6 @@ button{
 
 iframe{
 	border:0;
-}
-
-
-/* ScrollToTop button */
-
-.scrollToTop{
-	width:40px;
-	height:40px;
-	position:fixed;
-	bottom:20px;
-	right:20px;
-	opacity: 0;
-	z-index: 500;
-	transition: all .3s ease-in-out;
-}
-.scrollToTop span{
-	margin-top: 6px;
-}
-.showScrollTop{
-	font-size: 14px;
-	opacity: 1;
 }
 
 /* = Custom Styling
