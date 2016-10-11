@@ -696,6 +696,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	color:#016EBF!important;
 	border-color:#016EBF!important;
 }
+.wire-btn-red{
+	color:#FF0000!important;
+	border-color:#FF0000!important;
+}
+.wire-btn-blue-ryb{
+	color:#0040FF!important;
+	border-color:#0040FF!important;
+}
 /* Link colour styles */
 
 .ltc-white{
@@ -733,6 +741,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bg-Kumano-Translation-Cherry-Blossoms{
 	background-image:url("img/Kumano%20Translation%20Cherry%20Blossoms.jpg");
+}
+.bg-Kumano-Translation-Background{
+	background-image:url('img/Kumano%20Translation%20Background.jpg');
 }
 
 
