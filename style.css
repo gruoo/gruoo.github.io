@@ -255,6 +255,9 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #about-kumano-translation p{
 	font-size: 16px;
 }
+#about-kumano-translation h3{
+	line-height: 37.14285659790039px;
+}
 #kumano-translation-services p{
 	font-size: 16px;
 }
@@ -271,7 +274,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #services-kumano-honyaku-jimusho-home p{
 	font-size: 18.571428298950195px;
 }
-#bloc-18 p{
+#igaku-honyaku-kumano-honyaku-jimusho-jphome p{
 	font-size: 18.571428298950195px;
 }
 #kumano-honyaku-jimusho-kaisha p{
@@ -675,6 +678,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	text-transform:none;
 	text-decoration:underline!important;
 }
+.h1,h2,h3,h4,h5,h6,p,label,.btn,a:hover{
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -684,8 +689,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bgc-medium-jungle-green{
 	background-color:#303234;
 }
-.bgc-snow{
-	background-color:#FBFBFC;
+.bgc-ghost-white{
+	background-color:#FAFBFC;
 }
 .bgc-white{
 	background-color:#ffffff;
