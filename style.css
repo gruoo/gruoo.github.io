@@ -278,7 +278,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	font-size: 18.571428298950195px;
 }
 #kumano-honyaku-jimusho-kaisha p{
-	font-size: 16px;
+	font-size: 15.714285850524902px;
 }
 #kumano-honyaku-jimusho-jigyou p{
 	font-size: 16px;
@@ -786,6 +786,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bg-Kumano-Translation-Cherry-Blossoms{
 	background-image:url("img/Kumano%20Translation%20Cherry%20Blossoms.jpg");
 }
+.bg-Kumano-Translation-Background{
+	background-image:url('img/Kumano%20Translation%20Background.jpg');
+}
 
 
 
@@ -960,7 +963,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.bloc-group-text-vc, .mobile .bloc-group-text-vc{
 	margin-top:0%;
 }
- 
+ #kumano-honyaku-jimusho-kaisha p{
+	font-size: 16px;
+}
+
 @media (max-width: 420px){
 	.bloc-mob-center-text{
 	text-align:center;
@@ -971,4 +977,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bloc-group-text-vc{
 	margin-top:0%;
 }
- 
+ #kumano-honyaku-jimusho-kaisha p{
+	font-size: 15.714285850524902px;
+}
+
