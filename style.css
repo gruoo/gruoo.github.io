@@ -627,7 +627,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	background-position:center center;
 	background-repeat:no-repeat;
 }
-.statement-bloc-text{
+.statement-bloc-text-en{
 	line-height:38px;
 	font-style:italic;
 	font-size:28px;
@@ -679,6 +679,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	text-decoration:underline!important;
 }
 .h1,h2,h3,h4,h5,h6,p,label,.btn,a:hover{
+}
+.statement-bloc-text-jp{
+	font-size:28px;
+	text-align:center;
+	font-weight:lighter;
 }
 
 /* = Colour
