@@ -280,7 +280,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #kumano-honyaku-jimusho-kaisha p{
 	font-size: 15.714285850524902px;
 }
-#kumano-honyaku-jimusho-jigyou p{
+#kumano-honyaku-jimusho-igaku-honyaku p{
 	font-size: 16px;
 }
 #bottom-nav-bar h3{
@@ -792,7 +792,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	background-image:url("img/Kumano%20Translation%20Cherry%20Blossoms.jpg");
 }
 .bg-Kumano-Translation-Background{
-	background-image:url('img/Kumano%20Translation%20Background.jpg');
+	background-image:url("img/Kumano%20Translation%20Background.jpg");
 }
 
 
