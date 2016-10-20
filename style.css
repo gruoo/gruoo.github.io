@@ -482,6 +482,9 @@ button{
 
 /* = Icons
 -------------------------------------------------------------- */
+.icon-sm{
+	font-size:18px!important;
+}
 .icon-lg{
 	font-size:60px!important;
 }
