@@ -230,8 +230,8 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 
 /* Row Margin Offsets */
 
-.voffset{
-	margin-top:30px;
+.voffset-md{
+	margin-top:50px;
 }
 
 /* Bloc text custom styling */
@@ -982,7 +982,21 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bloc-group-text-vc{
 	margin-top:0%;
 }
- #kumano-honyaku-jimusho-kaisha p{
+.blurb{
+	margin-bottom:30px;
+}
+.blurb:active{
+	margin:30px 30px 30px 30px;
+}
+.blurb:hover{
+	margin:30px 30px 30px 30px;
+}
+ 
+/* Mobile Row Margin Offsets */
+.voffset-xs{
+	margin-top:30px;
+}
+#kumano-honyaku-jimusho-kaisha p{
 	font-size: 15.714285850524902px;
 }
 
