@@ -983,13 +983,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	margin-top:0%;
 }
 .blurb{
-	margin-bottom:30px;
+	margin-bottom:15%;
 }
 .blurb:active{
-	margin:30px 30px 30px 30px;
 }
 .blurb:hover{
-	margin:30px 30px 30px 30px;
 }
  
 /* Mobile Row Margin Offsets */
